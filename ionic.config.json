@@ -1,5 +1,7 @@
 {
   "name": "SpinnerRowTest",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
